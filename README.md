@@ -23,16 +23,8 @@ add labels for each bar that move when the bars do, this code should follow a ve
 
 ### to run the app for development
 
-in public
+in root
 
 ```
-npm run build:watch
+npm run dev-server
 ```
-
-in server
-
-```
-npm start
-```
-
-go to http://localhost:3000
